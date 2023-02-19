@@ -1,0 +1,333 @@
+.singlemainfirstdiv>img {
+    width: 368px;
+    height: 276px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.rating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    background-color: #fcf2f2;
+    padding: 2rem;
+  }
+.cdc{
+    width: 50px;
+    height: 50px;
+    border-radius: 14px;
+}
+.lessonandtitle{
+    margin: auto; 
+    width: 92%;
+}
+
+
+.courseCompletedp {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 56px;
+    color: #1E2A39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+
+}
+
+.courseCompletedbar{
+     display: flex;
+     justify-content: center;
+    align-items: center;
+}
+.titleandless {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    
+  
+    margin: auto;
+    margin-left: 3rem;
+}
+
+.singlemain {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.singlemainfirsth2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 31px;
+    color: #1E2A39;
+    opacity: 0.45;
+    width: 70%;
+    margin-top: 2rem;
+}
+
+.singlemainsecond {
+    width: 511px;
+    max-height: 384px;
+    left: 730px;
+    top: 189px;
+    background: rgba(238, 235, 244, 0.45);
+    border-radius: 20px;
+}
+
+.lessonandtitle {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+.lessonandtitle>img {
+    width: 45px;
+    margin-left: 1rem;
+    margin-right: 1re;
+    margin-top: 2rem;
+}
+
+.lessonandtitle>Poppins {
+    margin-top: 1.7rem;
+    margin-left: 1rem;
+}
+
+
+
+.titleandless>p {
+    padding-top: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.titleandless>span {
+    margin-top: -15px;
+}
+.elementsty {
+    max-width: 29rem;
+}
+
+.comple>img {
+    width: 24%;
+    height: 22%;
+    margin-left: 5rem;
+    margin-bottom: 26px;
+    
+}
+.freespan {
+    margin-bottom: 28px;
+    background-color: #ffd830b3;
+    padding: 2px;
+    border-radius: 12px;
+    font-size: 11px;
+    padding-right: 8px;
+    padding-left: 7px;
+}
+.singlemainfirstdiv>span {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 26px;
+    color: #263343;
+    /* margin-left: 5rem; */
+    margin-top: 1rem;
+    display: block;
+}
+
+.singlemainsecond {
+    overflow-y: scroll;
+}
+
+.coursedetail {
+    display: flex;
+    flex-wrap: wrap;
+    width: 81%;
+    margin: auto;
+    justify-content: center;
+    align-items: baseline;
+    margin-top: 4rem;
+}
+
+.coursedetailsecond {
+    width: 511px;
+    height: 454px;
+    left: 730px;
+    top: 189px;
+    background: rgba(238, 235, 244, 0.45);
+    border-radius: 20px;
+    flex: 1;
+    margin-left: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: unset;
+    flex-basis: 232px;
+}
+
+.coursedetailfirst {
+    flex: 1;
+    width: 90%;
+    flex-basis: 232px;
+}
+
+.coursedetailfirstdetail {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 34px;
+    line-height: 56px;
+    /* identical to box height, or 127% */
+
+
+    color: #1E2A39;
+
+    opacity: 0.8;
+}
+
+.coursedetailfirst>p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    /* or 175% */
+
+
+    color: #5C6272;
+}
+
+.coursedetailseconddiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btaaa {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: initial; */
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: initial; */
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    padding: 4px;
+    font-size: 14px;
+    /* border-width: 1px; */
+    border-color: #CCCCCC;
+    background-color: #FFFFFF;
+    color: #ffffff;
+
+
+    justify-content: center;
+    align-items: center;
+
+    background: #77C0CC;
+}
+
+.coursedetailsecondadj {
+    height: 245px;
+    display: flex;
+    flex-direction: column;
+    width: 87%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: initial;
+    height: 294px;
+}
+
+.courseleftsidespan {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+    color: #263343;
+    
+}
+
+.courseleftsidepara {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 26px;
+    color: #000000;
+    opacity: 0.34;
+    margin-top: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 412px) {
+
+    .singlemain {
+        display: flex;
+        justify-content: space-between;
+        width: 95%;
+        margin: auto;
+        margin-top: 5rem;
+        flex-direction: column;
+    }
+
+    .lessonandtitle {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 68%;
+        /* margin: auto; */
+        /* flex-direction: row-reverse; */
+    }
+    .coursedetailfirst {
+        flex: 1 1;
+        width: 100%;
+        flex-basis: 232px;
+    }
+    .coursedetailsecond {
+        width: 511px;
+        height: 454px;
+        left: 730px;
+        top: 189px;
+        background: rgba(238, 235, 244, 0.45);
+        border-radius: 20px;
+        flex: 1 1;
+        margin-left: 0rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: unset;
+        flex-basis: 232px;
+    }
+
+
+}
